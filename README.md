@@ -1,2 +1,2 @@
 # pythswn
-hsw‘s python-vault
+hsw‘s python-notebook-vault
