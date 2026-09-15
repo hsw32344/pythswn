@@ -1,0 +1,14 @@
+# Virtual environments
+.venv/
+venv/
+.venv_py_input/
+
+# Temp / scratch
+.tmp-study/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
